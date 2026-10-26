@@ -35,7 +35,7 @@ Say yes and you get a ready-to-install skill folder. Ignore it and it never asks
 ## Install
 
 **Claude apps (claude.ai, desktop, mobile)**
-1. Download `skill-spotter.zip` from the [latest release](https://github.com/BrianChase515/skill-spotter/releases/latest).
+1. Download [`skill-spotter.zip`](https://github.com/BrianChase515/skill-spotter/raw/main/skill-spotter.zip).
 2. In Claude, open Customize > Skills and upload the zip.
 
 **Claude Code**
