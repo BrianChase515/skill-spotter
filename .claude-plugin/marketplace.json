@@ -1,0 +1,12 @@
+{
+  "name": "brianchase-skills",
+  "description": "Skills by Brian Chase for getting more out of Claude.",
+  "owner": { "name": "Brian Chase", "url": "https://github.com/BrianChase515" },
+  "plugins": [
+    {
+      "name": "skill-spotter",
+      "source": "./",
+      "description": "Notices when you keep re-explaining the same task to Claude and offers, once, to turn it into a reusable skill."
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "skill-spotter",
+  "displayName": "Skill Spotter",
+  "version": "1.0.0",
+  "description": "Notices when you keep re-explaining the same task to Claude and offers, once, to turn it into a reusable skill.",
+  "author": { "name": "Brian Chase", "url": "https://github.com/BrianChase515" },
+  "homepage": "https://github.com/BrianChase515/skill-spotter",
+  "repository": "https://github.com/BrianChase515/skill-spotter",
+  "license": "MIT",
+  "keywords": ["skills", "productivity", "automation", "workflow", "ai-enablement"]
+}
