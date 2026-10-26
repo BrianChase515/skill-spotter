@@ -47,6 +47,10 @@ Or copy `skills/skill-spotter/` into `~/.claude/skills/`.
 
 **Other agents that read SKILL.md** (for example GitHub Copilot): copy `skills/skill-spotter/` into your agent's skills folder, such as `.github/skills/` or `~/.copilot/skills/`.
 
+## Companion skill
+
+[Blindspot](https://github.com/BrianChase515/blindspot) catches the missing context in a vague request before Claude guesses. Use Blindspot to dial a task in, then Skill Spotter to package it.
+
 ## Feedback
 
 Tried it? Open an issue with what it caught, what it missed, or where it was too eager. That's how the trigger rules get better.
